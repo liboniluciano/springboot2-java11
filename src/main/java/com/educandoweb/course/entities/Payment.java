@@ -8,7 +8,7 @@ import java.time.Instant;
 import java.util.Objects;
 
 @Entity
-@Table(name = "tbl_payment")
+@Table(name = "tb_payment")
 public class Payment implements Serializable {
 
     @Id
